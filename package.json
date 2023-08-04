@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ava": "^5.3.1",
+    "jsonfile": "^6.1.0",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {
+    "@sindresorhus/tsconfig": "^3.0.1",
+    "@types/node": "^20.4.5"
+  }
+}
